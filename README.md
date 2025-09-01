@@ -3,7 +3,7 @@
 ## TLDR
 
 this program is used to replicate a postgres server using triggers for inserts and deletes and rabbitmq to broadcast the
-changes to all database replicators.
+changes to all database replicators.  
 Article link: https://hackernoon.com/replicate-postgresql-databases-using-async-python-and-rabbitmq-for-high-availability
 
 ## How It Works
